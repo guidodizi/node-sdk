@@ -151,7 +151,7 @@ var conversation = new ConversationV1({
   username: '<username>',
   password: '<password>',
   url: 'https://gateway.watsonplatform.net/conversation/api/',
-  version: '2017-05-26'
+  version_date: '2017-05-26'
 });
 
 conversation.message(
